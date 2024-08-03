@@ -34,13 +34,6 @@ type: page
 ٩(๑•̀ω•́๑)۶
 
 ## 技术栈及兴趣
-<img src="{{ site.baseurl }}/assets/icons/go.svg" alt="Go" class="interest">
-<img src="{{ site.baseurl }}/assets/icons/java.svg" alt="java" class="interest">
-<img src="{{ site.baseurl }}/assets/icons/docker.svg" alt="Docker" class="interest">
-<img src="{{ site.baseurl }}/assets/icons/linux.svg" alt="Linux" class="interest">
-<img src="{{ site.baseurl }}/assets/icons/kubernetes.svg" alt="kubernetes" class="interest">
-<img src="{{ site.baseurl }}/assets/icons/redis.svg" alt="Redis" class="interest">
-<img src="{{ site.baseurl }}/assets/icons/mysql.svg" alt="Mysql" class="interest">
 
 1. 熟悉 _Go_ 、_Java_ 语言，熟悉 _JVM_ 以及 _JUC_   
 2. 熟悉 _Mysql_ 以及 _Redis_ 的基本原理
@@ -52,7 +45,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/lim-yoona)
+* GitHub：[Lundrea](https://github.com/lim-yoona)
 * email：ymiirtop@sina.com
 
 
