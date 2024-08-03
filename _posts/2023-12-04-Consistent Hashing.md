@@ -1,18 +1,25 @@
 ---
 layout: post
 title: 一致性哈希算法
-subtitle: 分布式缓存常用算法
 date: 2023-12-04 19:50:00 +0800
-categories: 分布式缓存
-author: 月梦
-cover: 'https://z1.ax1x.com/2023/12/01/pisYxbD.jpg'
-cover_author: 'Pexels'
-cover_author_link: 'https://www.pexels.com/zh-cn/'
+categories: 分布式
+author: Lundrea
 tags:
 - 分布式缓存  
 ---
 
-一致性哈希是一种哈希算法，主要用于分布式系统中数据的分片和负载均衡，一致性哈希算法解决了传统哈希算法在节点动态增减时可能导致数据迁移量过大的问题，能够提供更好的扩展性和性能。  
+* content
+{:toc}
+一致性哈希是一种哈希算法，主要用于分布式系统中数据的分片和负载均衡，一致性哈希算法解决了传统哈希算法在节点动态增减时可能导致数据迁移量过大的问题，能够提供更好的扩展性和性能。
+
+
+
+
+
+
+
+
+
 
 ## 普通的哈希算法
 众所周知，哈希算法用于将字符串映射到固定长度的哈希值上，应用广泛，譬如Java中的`HashMap`，C++中的`unordered_map`，都是用到了哈希算法。    

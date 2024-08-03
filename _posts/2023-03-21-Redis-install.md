@@ -1,17 +1,25 @@
 ---
 layout: post
 title: Redis安装(使用Docker)
-subtitle: 通过Docker安装部署Redis
 date: 2023-03-21 15:50:00 +0800
 categories: Redis
-author: 月梦
-cover: 'https://s1.ax1x.com/2023/09/04/pPr9a7D.jpg'
-cover_author: 'Mahdi Yusuf'
-cover_author_link: 'https://architecturenotes.co/author/myusuf3/'
+author: Lundrea
 tags: 
 - Redis  
 - Docker
 ---
+
+* content
+{:toc}
+
+
+
+
+
+
+
+
+
 
 ### 使用Docker部署Redis
 #### 1. 拉取镜像

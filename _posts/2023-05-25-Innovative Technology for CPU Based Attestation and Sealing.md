@@ -1,24 +1,31 @@
 ---
 layout: post
 title: Innovative Technology for CPU Based Attestation and Sealing论文翻译
-subtitle: 对于Intel SGX论文的翻译
 date: 2023-05-25 19:50:00 +0800
 categories: 机密计算
-author: 月梦
-cover: 'https://s1.ax1x.com/2023/05/25/p9Hy7p6.jpg'
-cover_author: 'Intel'
-cover_author_link: 'https://www.intel.com/content/www/us/en/homepage.html'
+author: Lundrea
 tags:
 - SGX  
 - 机密计算  
 - 内存安全
 ---
 
+* content
+{:toc}
 **Innovative Technology for CPU Based Attestation and Sealing**是Intel SGX技术的官方论文，本文将翻译这篇文章。  
 SGX技术提供了enclave环境，当今比较火的机密计算技术一般就是基于SGX技术来实现，当然也有其他的可以提供enclave环境的技术，例如TrustZone等，但是SGX应用更多，且相比之下更安全些。  
 ![sgx论文封面](https://s1.ax1x.com/2023/05/25/p9Hy7p6.jpg)
 
-本文中形似**（注：···）**的批注是我的批注，而非原文  
+本文中形似**（注：···）**的批注是我的批注，而非原文
+
+
+
+
+
+
+
+
+
 
 # Innovative Technology for CPU Based Attestation and Sealing(基于CPU的认证与密封新技术)
 
