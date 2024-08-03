@@ -1,18 +1,23 @@
 ---
 layout: post
 title: Spring框架的理解与总结
-subtitle: Java学习笔记
 date: 2024-03-09 19:50:00 +0800
 categories: Java
-author: 月梦
-cover: 'https://z1.ax1x.com/2023/12/01/pisYxbD.jpg'
-cover_author: 'Pexels'
-cover_author_link: 'https://www.pexels.com/zh-cn/'
+author: Lundrea
 tags:
 - Java  
 ---
 
+* content
+{:toc}
 **Spring** 是 `Java` 生态中一个举足轻重的框架，大大简化了开发，它的主要核心特性包括两个，分别是 **控制反转** 以及 **依赖注入**。  
+
+
+
+
+
+
+
 
 ### 控制反转
 **_Inversion of control_** ，简写为 **_IoC_** ，译为 **控制反转**，是一种设计思想，它将对象的 **创建** 和 **管理** 交给了 `Spring` 来管理，更具体地说，是交给了 **_IoC_** 容器来管理。  

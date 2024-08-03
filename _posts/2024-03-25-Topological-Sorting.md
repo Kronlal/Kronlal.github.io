@@ -1,20 +1,24 @@
 ---
 layout: post
 title: 拓扑排序
-subtitle: 图算法之拓扑排序
 date: 2024-03-25 19:50:00 +0800
 categories: 算法
-author: 月梦
-cover: 'https://z1.ax1x.com/2023/12/01/pisYxbD.jpg'
-cover_author: 'Pexels'
-cover_author_link: 'https://www.pexels.com/zh-cn/'
+author: Lundrea
 tags:
 - 算法  
 ---
 
+* content
+{:toc}
 拓扑排序（Topological Sorting）是一种针对有向无环图（DAG）的排序算法。在拓扑排序中，图中的顶点被安排成一个线性序列，使得如果图中存在一条从顶点 u 到顶点 v 的有向边，则在序列中顶点 u 出现在顶点 v 之前。  
 
 拓扑排序通常用于描述一组任务或事件之间的依赖关系，其中每个任务都有一些前置任务，必须在它们完成后才能执行。通过拓扑排序，我们可以确定一种合理的执行顺序，以确保所有任务都按照其依赖关系得到正确执行。  
+
+
+
+
+
+
 
 在实现上，拓扑排序可以根据下面的步骤实现：  
 1. 找到入度为 0 的顶点，把这些节点加入到排序结果中，这些节点没有前置任务  
