@@ -51,7 +51,7 @@ type: page
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+[吱吱的小站](http://www.gislxz.com/) \| [努力向前](https://greatiga.cn/) \| [SAUCERMAN](https://saucer-man.com/) \| [不明のNetWork OS](https://networkos.club/) \| [慕雪的寒舍](https://blog.musnow.top/) \| [倦意博客](https://jyblog.cn) \| [北屿](https://blog.bj-yan.top/) \| [VnYzm](https://zimingyuan.github.io) \| [ZhangZhao’s Blog](https://zhangzhao219.github.io/) \| [小城寒风](https://blog.atago.moe/) \| [Junyi’s Lab](https://www.junyi.dev/) \| [Inversion](https://inverisonor.asia/) 
 
 ## Comments
 
