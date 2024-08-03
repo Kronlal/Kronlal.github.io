@@ -1,23 +1,29 @@
 ---
 layout: post
 title: Raft 共识算法总结
-subtitle: 分布式共识协议之 Raft
 date: 2024-02-13 19:50:00 +0800
 categories: 分布式
-author: 月梦
-cover: 'https://z1.ax1x.com/2023/12/01/pisYxbD.jpg'
-cover_author: 'Pexels'
-cover_author_link: 'https://www.pexels.com/zh-cn/'
+author: Lundrea
 tags:
 - 分布式  
 pin: true
 ---
 
+* content
+{:toc}
 _**Raft**_ 算法是目前应用广泛的分布式共识算法，在许多知名的开源项目比如 _etcd_ 中，都有 _**Raft**_ 的身影。同时，随着 _MIT6.824_ 课程的普及，_**Raft**_ 俨然成为了最广为人知的分布式共识算法。  
 
 _**Raft**_ 的设计动机之一就是为解决 _Paxos_ 算法的难以理解性，因此 _**Raft**_ 的一个大的特性就是易于理解。  
 
 直接啃论文是困难的，本文旨在以简洁的文字总结 _**Raft**_ 算法，让第一次认识 _**Raft**_ 算法的同学也可以很快有一个整体上的理解。  
+
+
+
+
+
+
+
+
 
 >_**Raft is a consensus algorithm for managing a replicated log.**_
 
