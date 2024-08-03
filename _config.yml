@@ -7,7 +7,7 @@
 
 # Site settings
 title: Lundrea
-brief-intro: 后端技术站！
+brief-intro: Lundrea's技术博客, 专注于后端与基础架构!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ymiir.asia" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我后端之旅的沿途风景！
+description_footer: 分享技术，记录成长！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
