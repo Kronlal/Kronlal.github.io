@@ -8,6 +8,8 @@ tags:
 - Java  
 ---
 
+* content
+{:toc}
 **_ReentrantLock_** 是 _Java JUC(java.util.concurrent)_ 包下的一个锁工具，它实现了 _Lock_ 接口，与 _synchronized_ 锁不同，**_ReentrantLock_** 除了用来做线程间互斥之外，还提供了很多高级的特性，例如**公平锁 & 非公平锁**以及**可中断**。  
 
 本文将从 **JDK17** 源码角度介绍一下 **_ReentrantLock_** 的底层实现原理，这部分是 _Java_ 面试的常考知识点。（目前看到的博客都是基于 **JDK8** 源码分析的，而鲜有基于 **JDK17** 源码进行分析的）  
