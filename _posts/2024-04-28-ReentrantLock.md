@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Java ReentrantLock原理
-subtitle: Java学习笔记
 date: 2024-04-28 19:50:00 +0800
 categories: Java
-author: 月梦
-cover: 'https://z1.ax1x.com/2023/12/01/pisYxbD.jpg'
-cover_author: 'Pexels'
-cover_author_link: 'https://www.pexels.com/zh-cn/'
+author: Lundrea
 tags:
 - Java  
 ---
@@ -17,6 +13,8 @@ tags:
 本文将从 **JDK17** 源码角度介绍一下 **_ReentrantLock_** 的底层实现原理，这部分是 _Java_ 面试的常考知识点。（目前看到的博客都是基于 **JDK8** 源码分析的，而鲜有基于 **JDK17** 源码进行分析的）  
 
 _2024美团暑期实习后端开发一面：公平锁与非公平锁是如何实现的？_ 看完这篇文章你就明白了！
+
+#
 
 ## AQS
 
